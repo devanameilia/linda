@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Appsku</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="signup">Sign Up</string>
+    <string name="signin">Sign In</string>
+    <string name="frmSignup">Form Sign up</string>
+    <string name="todo">TODO</string>
+    <string name="txtUsername">Username</string>
+    <string name="txtPassword">Password</string>
+    <string name="txthintusername">Masukkan Username !</string>
+    <string name="txthintpassword">Masukkan password !</string>
+    <string name="txtbtnsimpan">simpan</string>
+    <string name="txtbtnback">back</string>
+    <string name="txtSignIn">Sign In</string>
+    <string name="txtbtnSignIn">Sign in</string>
+
+</resources>
